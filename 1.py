@@ -1,6 +1,6 @@
-file = open("test/1.sam", "r")
-#file = open("input/1.sam", "r")
-lines = file.readlines()
+file = open("input/1.sam", "r")
+elf_totals = [sum([int(c) for c in e.split("\n")]) for e in file.read().split("\n\n")]
+print("Part I: ", max(elf_totals))
 
-#data = [int(n) for n in lines]
-#data = [x.split(",") for x in lines]
+elf_totals.sort()
+print("Part II:", sum(elf_totals[-3:]))
