@@ -1,12 +1,9 @@
-from util.parser import Parser
-from util.printer import Printer
+file = open("input/2.sam", "r")
+moves = [a.strip().split(" ") for a in file.readlines()]
+opponent = "ABC"
+mine = "XYZ"
+score = sum([mine.index(m[1])+1 for m in moves]) + sum([(((mine.index(m[1])-opponent.index(m[0]))+1)%3)*3 for m in moves])
+print('Part I: ', score)
 
-file = open("test/n.sam", "r")
-#file = open("input/1.sam", "r")
-lines = file.readlines()
-
-#data = [int(n) for n in lines]
-#data = [x.split(",") for x in lines]
-#grid = Parser.parse_grid(lines)
-#Printer.print_grid(grid)
-
+score = sum([(((opponent.index(m[0])+(mine.index(m[1])-1))%3)+1) for m in moves]) + sum([mine.index(m[1])*3 for m in moves])
+print('Part II:',score)
