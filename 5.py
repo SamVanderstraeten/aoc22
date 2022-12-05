@@ -1,5 +1,4 @@
-file = open("input/5.sam", "r")
-input = file.read()
+input = open("input/5.sam", "r").read()
 
 # Read stacks
 stacks = {}
