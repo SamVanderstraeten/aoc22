@@ -3,7 +3,7 @@ line = file.readline()
 
 def find_window(size):
     for i in range(len(line)):
-        if len(list(dict.fromkeys(line[i:i+size]))) == size:
+        if len(set(line[i:i+size])) == size:
             return (i+size)
     return -1
 
