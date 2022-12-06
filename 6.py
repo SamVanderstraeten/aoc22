@@ -1,12 +1,11 @@
-from util.parser import Parser
-from util.printer import Printer
+file = open("input/6.sam", "r")
+line = file.readline()
 
-file = open("test/6.sam", "r")
-#file = open("input/1.sam", "r")
-lines = file.readlines()
+def find_window(size):
+    for i in range(len(line)):
+        if len(list(dict.fromkeys(line[i:i+size]))) == size:
+            return (i+size)
+    return -1
 
-#data = [int(n) for n in lines]
-#data = [x.split(",") for x in lines]
-#grid = Parser.parse_grid(lines)
-#Printer.print_grid(grid)
-
+print("Part I: ", find_window(4))
+print("Part II:", find_window(14))
