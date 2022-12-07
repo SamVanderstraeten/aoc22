@@ -47,5 +47,5 @@ print("Part I: ",sum)
 
 needed_space = dir_size("/") - 40000000
 sizes.sort()
-delete_folder = [s for s in sizes.sort() if s>needed_space].pop(0)
+delete_folder = [s for s in sizes if s>needed_space].pop(0)
 print("Part II:", delete_folder)
