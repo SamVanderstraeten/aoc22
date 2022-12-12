@@ -2,29 +2,29 @@
 
 CODING.FUN.
 
-I. I don't have time for this
+I. FOOD. I don't have time for this
 
-II. I don't have time for this
+II. LIZARD SPOCK. I don't have time for this
 
-III. I don't have time for this
+III. BACKPACKIN'. I don't have time for this
 
-IV. I don't have time for this
+IV. EFFICIENCY = INTELLIGENT LAZINESS. I don't have time for this
 
-V. I don't have time for this
+V. STACK JUNKIE. I don't have time for this
 
-VI. I don't have time for this
+VI. PACKET TRACING. I don't have time for this
 
-VII. I don't have time for this
+VII. TERMINALTOR. I don't have time for this
 
-VIII. I don't have time for this
+VIII. TREE SEARCH. I don't have time for this
 
-IX. I don't have time for this
+IX. THIS WAS FUN [PAUSE] KNOT. I don't have time for this
 
-X. I don't have time for this
+X. LIKE CLOCKWORK. I don't have time for this
 
-XI. I don't have time for this
+XI. MONKEY SEE MONKEY DO. I don't have time for this
 
-XII. I don't have time for this
+XII. ZODEN AAN DE DIJKSTRA. I don't have time for this
 
 XIII. I don't have time for this
 
