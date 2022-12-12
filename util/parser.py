@@ -26,3 +26,10 @@ class Parser:
             else:
                 grid.append(line.strip().split(delim))
         return grid
+
+    @staticmethod
+    def parse_grid_ords(lines):
+        grid = []
+        for line in lines:
+            grid.append([ord(x) for x in line.strip() if x != "\\n"])
+        return grid

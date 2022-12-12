@@ -1,7 +1,7 @@
 from util.parser import Parser
 from util.printer import Printer
 
-file = open("test/n.sam", "r")
+file = open("test/13.sam", "r")
 lines = file.readlines()
 
 #data = [int(n) for n in lines]
