@@ -57,8 +57,8 @@ def scan_line(line):
 x1,x2 = scan_line(scanline)
 print("Part I: ", str(abs(x1-x2)-beacons_on_line(scanline)))
 
-for i in range(2900000,RANGE):
+for i in range(RANGE):
     x1,x2 = scan_line(i)
     if x2 < RANGE:
-        print(str(x2*4000000 + i))
+        print("Part II:",str(x2*4000000 + i))
         break
