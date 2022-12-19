@@ -26,13 +26,13 @@ XI. MONKEY SEE MONKEY DO. I don't have time for this
 
 XII. ZODEN AAN DE DIJKSTRA. I don't have time for this
 
-XIII. I don't have time for this
+XIII. S.O.S. I don't have time for this
 
-XIV. I don't have time for this
+XIV. SANDSTORM. I don't have time for this
 
-XV. I don't have time for this
+XV. HMMMMM BACON. I don't have time for this
 
-XVI. I don't have time for this
+XVI. WHERE DID THAT ELEPHANT COME FROM? I don't have time for this, SRSLY
 
 XVII. I don't have time for this
 
