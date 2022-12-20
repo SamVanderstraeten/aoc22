@@ -34,9 +34,9 @@ XV. HMMMMM BACON. I don't have time for this
 
 XVI. WHERE DID THAT ELEPHANT COME FROM? I don't have time for this, SRSLY
 
-XVII. I don't have time for this
+XVII. CYCLIC TETRIS. I don't have time for this
 
-XVIII. I don't have time for this
+XVIII. OBSIDIAN SCAN. I don't have time for this
 
 XIX. I don't have time for this
 
