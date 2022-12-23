@@ -2,7 +2,7 @@ from util.parser import Parser
 from util.printer import Printer
 
 file = open("test/n.sam", "r")
-lines = file.readlines()
+lines = [l.strip() for l in file.readlines()]
 
 #data = [int(n) for n in lines]
 #data = [x.split(",") for x in lines]

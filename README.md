@@ -36,17 +36,15 @@ XVI. WHERE DID THAT ELEPHANT COME FROM? I don't have time for this, SRSLY
 
 XVII. CYCLIC TETRIS. I don't have time for this
 
-XVIII. OBSIDIAN SCAN. I don't have time for this
+XVIII. OBSIDIAN SCAN (BFF'S). I don't have time for this
 
-XIX. I don't have time for this
+XIX. ROBOT'S NOT FINISHED. I don't have time for this
 
-XX. I don't have time for this
+XX. ROTATOR. I don't have time for this
 
-XXI. I don't have time for this
+XXI. GODDAMN MONKEYS. I don't have time for this
 
-XXI. I don't have time for this
-
-XXII. I don't have time for this
+XXII. CUBICAL MAZE - GOT LOST IN 3D. I don't have time for this
 
 XXIII. I don't have time for this
 
